@@ -1,0 +1,9 @@
+# Compiled executables
+MP3/a.out
+MP3/mp3tag
+
+# Object files
+MP3/*.o
+
+# Temporary files
+MP3/*.tmp
